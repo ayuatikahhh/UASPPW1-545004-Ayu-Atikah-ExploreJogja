@@ -3,7 +3,7 @@ NIM                     : 24/545004/SV/2558
 
 LINK VIDEO YOUTUBE      :
 LINK DESAIN FIGMA       : https://www.figma.com/design/TufGAhTAsQQKq8IYNtLjy0/Untitled?node-id=0-1&t=1H9tnRVPWfu0AvWm-1 
-LINK GUTHUB             : 
+LINK GUTHUB             : https://github.com/ayuatikahhh/UASPPW1-545004-Ayu-Atikah-ExploreJogja
 LINK WEBSITE            : https://explorejogja.trpl24.space/
 
-RECOVERY LINK DRIVE     : 
+RECOVERY LINK DRIVE     : https://drive.google.com/drive/folders/1fZc_8vypSxDGopbkvGLLslf85Xa6VfSJ?usp=sharing
