@@ -1,7 +1,7 @@
 NAMA                    : AYU ATIKAH 
 NIM                     : 24/545004/SV/2558
 
-LINK VIDEO YOUTUBE      :
+LINK VIDEO YOUTUBE      : https://youtu.be/EZc07FebND0?si=Jt3n4lGgk6dbv_ti
 LINK DESAIN FIGMA       : https://www.figma.com/design/TufGAhTAsQQKq8IYNtLjy0/Untitled?node-id=0-1&t=1H9tnRVPWfu0AvWm-1 
 LINK GUTHUB             : https://github.com/ayuatikahhh/UASPPW1-545004-Ayu-Atikah-ExploreJogja
 LINK WEBSITE            : https://explorejogja.trpl24.space/
