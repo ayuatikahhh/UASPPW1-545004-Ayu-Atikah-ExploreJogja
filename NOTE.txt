@@ -7,3 +7,7 @@ LINK GUTHUB             : https://github.com/ayuatikahhh/UASPPW1-545004-Ayu-Atik
 LINK WEBSITE            : https://explorejogja.trpl24.space/
 
 RECOVERY LINK DRIVE     : https://drive.google.com/drive/folders/1fZc_8vypSxDGopbkvGLLslf85Xa6VfSJ?usp=sharing
+
+USERNAME ADMIN          : admin
+PASSWORD ADMIN          : mainorion1
+
